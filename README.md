@@ -44,4 +44,29 @@ services:
 | --- | --- | --- | --- |
 | hola | hola2 | hola3 | hola4 |
 
+* 1
+  * 2
+    * 3
+  * 4
+* 5
+* hola
+
+- 1
+- 2
+- 3
+- 4
+- 5
+- hola
+
+
+<b>Hola</b>
+
+Texto
+> Cita 
+
+
+<!-- hora esto es un comentario solo lo puedo ver yo-->
+
+[Enlace](https://ViVaFranco.com)
+
 
